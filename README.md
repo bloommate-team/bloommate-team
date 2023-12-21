@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bangkit 2023 Capstone Product-based (CH2-PS209)
+## BloomMate
 
-<!--
-**bloommate-team/bloommate-team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Team
+Bangkit ID | Name | University | Learning Path
+:---:|:---|:---|:---
+M320BSY0098 | Nico Victorio | Universitas Surabaya | Machine Learning
+M320BSX0097 | Sally Angela Salma Laute | Universitas Surabaya  | Machine Learning
+M320BSX0099 | Catherine Belindra Citra  | Universitas Surabaya  | Machine Learning
+C296BSY3362 | Farras Hafish Zidane | Universitas Pembangunan Nasional Veteran Jawa Timur | Cloud Computing
+C120BSY4068 | Agyl Restu Hermanto | Institut Teknologi Telkom Purwokerto | Cloud Computing
+A296BSX2572 | Cendana Putri Aulia | Universitas Pembangunan Nasional Veteran Jawa Timur | Android/Mobile Development
+A319BSX2771 | Jessica S Sianturi | Universitas Sumatera Utara | Android/Mobile Development
