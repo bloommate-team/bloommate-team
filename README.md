@@ -11,3 +11,5 @@ C296BSY3362 | Farras Hafish Zidane | Universitas Pembangunan Nasional Veteran Ja
 C120BSY4068 | Agyl Restu Hermanto | Institut Teknologi Telkom Purwokerto | Cloud Computing
 A296BSX2572 | Cendana Putri Aulia | Universitas Pembangunan Nasional Veteran Jawa Timur | Android/Mobile Development
 A319BSX2771 | Jessica S Sianturi | Universitas Sumatera Utara | Android/Mobile Development
+
+Below there are 3 repositories namely MD, ML, and CC
